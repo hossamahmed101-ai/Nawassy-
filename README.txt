@@ -1,1 +1,0 @@
-NAWASSY BOOKING v1.2 - static website demonstration with terms modal. Replace GitHub repo root index.html to view. No real payments, document uploads, or server-side consent tracking. Legal approval required before launch.
